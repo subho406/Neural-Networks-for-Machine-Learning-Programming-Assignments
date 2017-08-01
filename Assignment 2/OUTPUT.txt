@@ -1,0 +1,65 @@
+OUTPUT 
+
+Q1)
+Final Training CE 2.534
+Final Validation CE 2.601
+Final Test CE 2.610
+
+Q4)
+Final Validation CE 5.521
+Final Test CE 5.521
+
+Q5)
+Model A
+Final Training CE 4.432
+Final Validation CE 4.386
+Final Test CE 4.393
+
+Model B
+Final Training CE 3.962
+Final Validation CE 3.307
+Final Test CE 3.308
+
+Model C
+Finished Training.
+Final Training CE 4.704
+Final Validation CE 4.662
+Final Test CE 4.668
+
+
+Q7)
+Model A
+Final Training CE 2.802
+Final Validation CE 2.821
+Final Test CE 2.829
+
+Model B
+Final Training CE 3.012
+Final Validation CE 3.016
+Final Test CE 3.018
+
+Model C
+Final Training CE 2.537
+Final Validation CE 2.603
+Final Test CE 2.616
+
+Model D
+Final Training CE 3.225
+Final Validation CE 3.226
+Final Test CE 3.228
+
+Q9)
+Model A
+Final Training CE 3.994
+Final Validation CE 3.955
+Final Test CE 3.959
+
+Model B
+Final Training CE 3.327
+Final Validation CE 3.254
+Final Test CE 3.252
+
+Model C
+Final Training CE 2.712
+Final Validation CE 2.715
+Final Test CE 2.721
